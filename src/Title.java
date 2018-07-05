@@ -7,7 +7,7 @@ public class Title {
     private int fadeIn = 10, stay = 70, fadeOut = 20;
 
     private Title() {
-
+        //private
     }
 
     private Title(Title title) {
